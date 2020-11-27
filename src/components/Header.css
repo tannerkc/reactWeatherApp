@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(23, 28, 37);
+    padding: .8rem 0;
+    color: rgba(255, 255, 255, 0.74);
+    letter-spacing: 1px;
+    min-width: 100vw;
+    position: absolute;
+    top: 0;
+}
